@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+DAGA - daga.global - Nhà Cái Cá Cược Trực Tuyến Top 1 Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`DAGA <https://daga.global/>`_ - Điểm đến hàng đầu mang đến cho cược thủ giây phút giải trí thăng hoa, đẳng cấp, uy tín. Với giao diện hiện đại, kho game đa dạng hấp dẫn. DAGA đã chinh phục hàng triệu con tim cược thủ. Đưa DAGA ngày một tiến xa hơn và khẳng định tên tuổi trên thị trường cá cược trực tuyến. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 28 Đường Trần Phú, Mộ Lao, Hà Đông, Hà Nội, Việt Nam. 
 
-   This project is under active development.
+Phone: 0523830285. 
 
-Contents
---------
+Email: cskh@daga.global. 
 
-.. toctree::
+Website: https://daga.global/
 
-   usage
-   api
+Author: https://daga.global/dat-villa-tac-gia-daga/
+
+#daga #dagaglobal #nhacaidaga #dagatop1 #daga8 #daga.com
